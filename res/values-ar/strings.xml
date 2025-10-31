@@ -14,7 +14,7 @@
     <string name="Game_Mode_">"نوع اللعبة"</string>
     <string name="Show_Names">"إظهار الأسماء"</string>
     <string name="Show_Avatars">"إظهار الصور"</string>
-    <string name="PLAY">"إلعب"</string>
+    <string name="PLAY">"العب"</string>
     <string name="OPTIONS">"الإعدادات"</string>
 
     <string name="Avatar_">"الصورة"</string>
@@ -27,7 +27,7 @@
     <string name="Yes">"نعم"</string>
     <string name="No">"لا"</string>
     <string name="WAIT">"انتظر …"</string>
-    <string name="Must_Specify_Name_">"يجب تحديد الإسم."</string>
+    <string name="Must_Specify_Name_">"يجب تحديد الاسم."</string>
 
     <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"قد يتغير تصنيف محتوى التطبيق عند العثور على مجموعات."</string>
 
@@ -893,7 +893,7 @@
 
     <string name="ROOM">غرفة</string>
     <string name="EXPERIMENTAL">تجريبي</string>
-    <string name="members">أعضاء</string>
+    <string name="members">ألاعضاء</string>
     <string name="Delete_ALL_Messages_">حذف كل الرسائل!</string>
     <string name="SAVE_PROFILE">حفظ الحالة الشخصية</string>
     <string name="Move">"نقل"</string>
@@ -910,7 +910,7 @@
     <string name="Pets">"الحيوانات الأليفة"</string>
     <string name="Pet">"حيوان أليف"</string>
     <string name="You_can_purchase_this_pet_for">" يمكن شراء هذا الحيوان الأليف بـ"</string>
-    <string name="gift_to_friend">"هدية لصديق"</string>
+    <string name="gift_to_friend">"إهداء لصديق"</string>
     <string name="gift_purchase_warning">"لن تتلقى عملية الشراء هذه لأنك اخترت تقديم هدية لعملية الشراء هذه إلى صديق."</string>
     <string name="x2_Clan_XP_7_Days">"مسرع نقاط خبرة العشيرة X2 لـ7أيام"</string>
     <string name="RECEIVED">"تم الإستلام"</string>
