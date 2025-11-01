@@ -864,7 +864,7 @@
     <string name="NOW">"ŞİMDİ"</string>
     <string name="Team_Deathmatch_Domination">"Takımlı Hakimiyet Ölüm Müsabakası"</string>
     <string name="We_Will_Survive">"Hayatta Kalacağız"</string>
-    <string name="Win_by_at_least_5_players_in_a_Team_Deathmatch_game_">"Takımlı Ölüm Müsabakasında en az 5 kişi var ken kazanın."</string>
+    <string name="Win_by_at_least_5_players_in_a_Team_Deathmatch_game_">"Takımlı Ölüm Müsabakasında en az 5 kişi varken kazanın."</string>
 
     <string name="Survive_but_do_not_win_a_Team_Deathmatch_game_">"Takımlı Ölüm Müsabakasını kazanmadan hayatta kalın."</string>
     <string name="Win_a_Team_Deathmatch_Game">"Bir Takımlı Ölüm Müsabakası Kazan"</string>
@@ -916,7 +916,7 @@
     <string name="x2_Clan_XP_7_Days">"7 Günlük 2x Klan XP'si"</string>
     <string name="RECEIVED">"ALINAN POSTA"</string>
     <string name="SENT">"GÖNDERİLEN POSTA"</string>
-    <string name="Enable_Invites">"Davetiyelereri Etkinleştirin"</string>
+    <string name="Enable_Invites">"Davetiyeleri Etkinleştirin"</string>
     <string name="Game_Invitation">"Oyun Davetiyesi"</string>
     <string name="__has_invited_you_to_join_their_game_">"%s ,sizi kendi oyununa katılmaya davet etti!"</string>
     <string name="Invitation_declined_">"Davetiye Reddedildi!"</string>
